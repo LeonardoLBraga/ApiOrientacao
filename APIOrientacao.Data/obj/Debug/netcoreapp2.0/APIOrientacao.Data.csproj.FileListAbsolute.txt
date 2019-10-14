@@ -31,3 +31,14 @@ C:\Users\Leonardo Braga\Desktop\APIOrientacao\APIOrientacao.Data\obj\Debug\netco
 C:\Users\Leonardo Braga\Desktop\APIOrientacao\APIOrientacao.Data\obj\Debug\netcoreapp2.0\APIOrientacao.Data.AssemblyInfo.cs
 C:\Users\Leonardo Braga\Desktop\APIOrientacao\APIOrientacao.Data\obj\Debug\netcoreapp2.0\APIOrientacao.Data.dll
 C:\Users\Leonardo Braga\Desktop\APIOrientacao\APIOrientacao.Data\obj\Debug\netcoreapp2.0\APIOrientacao.Data.pdb
+C:\Users\Desenvolvimento\Desktop\ApiOrientacao-master\APIOrientacao.Data\bin\Debug\netcoreapp2.0\APIOrientacao.Data.deps.json
+C:\Users\Desenvolvimento\Desktop\ApiOrientacao-master\APIOrientacao.Data\bin\Debug\netcoreapp2.0\APIOrientacao.Data.runtimeconfig.json
+C:\Users\Desenvolvimento\Desktop\ApiOrientacao-master\APIOrientacao.Data\bin\Debug\netcoreapp2.0\APIOrientacao.Data.runtimeconfig.dev.json
+C:\Users\Desenvolvimento\Desktop\ApiOrientacao-master\APIOrientacao.Data\bin\Debug\netcoreapp2.0\APIOrientacao.Data.dll
+C:\Users\Desenvolvimento\Desktop\ApiOrientacao-master\APIOrientacao.Data\bin\Debug\netcoreapp2.0\APIOrientacao.Data.pdb
+C:\Users\Desenvolvimento\Desktop\ApiOrientacao-master\APIOrientacao.Data\obj\Debug\netcoreapp2.0\APIOrientacao.Data.csprojResolveAssemblyReference.cache
+C:\Users\Desenvolvimento\Desktop\ApiOrientacao-master\APIOrientacao.Data\obj\Debug\netcoreapp2.0\APIOrientacao.Data.csproj.CoreCompileInputs.cache
+C:\Users\Desenvolvimento\Desktop\ApiOrientacao-master\APIOrientacao.Data\obj\Debug\netcoreapp2.0\APIOrientacao.Data.AssemblyInfoInputs.cache
+C:\Users\Desenvolvimento\Desktop\ApiOrientacao-master\APIOrientacao.Data\obj\Debug\netcoreapp2.0\APIOrientacao.Data.AssemblyInfo.cs
+C:\Users\Desenvolvimento\Desktop\ApiOrientacao-master\APIOrientacao.Data\obj\Debug\netcoreapp2.0\APIOrientacao.Data.dll
+C:\Users\Desenvolvimento\Desktop\ApiOrientacao-master\APIOrientacao.Data\obj\Debug\netcoreapp2.0\APIOrientacao.Data.pdb

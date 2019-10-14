@@ -30,8 +30,11 @@ namespace APIOrientacao.Controllers
 
                 var aluno = new Aluno
                 {
+                    IdPessoa = alunoRequest.idPessoa,
                     Matricula = alunoRequest.Matricula,
-                    RegistroAtivo = alunoRequest.RegistroAtivo
+                    RegistroAtivo = alunoRequest.RegistroAtivo,
+                    IdCurso = alunoRequest.IdCurso
+                           
                 };
 
                 contexto.Aluno.Add(aluno);
@@ -48,6 +51,7 @@ namespace APIOrientacao.Controllers
                     response.IdPessoa = alunoRetorno.IdPessoa;
                     response.Matricula = alunoRetorno.Matricula;
                     response.RegistroAtivo = alunoRetorno.RegistroAtivo;
+                    response.IdCurso = alunoRetorno.IdCurso;
                 }
 
                 return StatusCode(200, response);

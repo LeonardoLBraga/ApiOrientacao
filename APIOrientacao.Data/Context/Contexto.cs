@@ -169,7 +169,7 @@ namespace APIOrientacao.Data.Context
 
             modelBuilder.Entity<TipoOrientacao>(e =>
             {
-                e.ToTable("Pessoa");
+                e.ToTable("TipoOrientacao");
                 e.HasKey(c => c.IdTipoOrientacao).HasName("IdTipoOrientacao");
                 e.Property(c => c.IdTipoOrientacao).HasColumnName("IdTipoOrientacao")
                 .ValueGeneratedOnAdd();

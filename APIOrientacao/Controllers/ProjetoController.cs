@@ -31,7 +31,8 @@ namespace APIOrientacao.Controllers
             {
                 Nome = projetoRequest.Nome,
                 Encerrado = projetoRequest.Encerrado,
-                Nota = projetoRequest.Nota
+                Nota = projetoRequest.Nota,
+                IdPessoa = projetoRequest.IdPessoa
             };
 
             contexto.Projeto.Add(projeto);

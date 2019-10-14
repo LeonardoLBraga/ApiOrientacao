@@ -29,6 +29,7 @@ namespace APIOrientacao.Controllers
 
             var professor = new Professor
             {
+                IdPessoa = professorRequest.IdPessoa,
                 RegistroAtivo = professorRequest.RegistroAtivo
             };
 
